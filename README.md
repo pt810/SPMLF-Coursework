@@ -24,4 +24,4 @@ If you'd like to rerun or modify the code:
 
 ## Coursework Tasks
 
-The tasks in this coursework are based on the outline provided in the *Tasks.pdf* document. The notebook follows these tasks sequentially, explaining each step and providing the relevant computations and code.
+The tasks in this coursework are based on the outline provided in the *Tasks.pdf* document. The notebook follows these tasks sequentially.
