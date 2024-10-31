@@ -25,3 +25,10 @@ If you'd like to rerun or modify the code:
 ## Coursework Tasks
 
 The tasks in this coursework are based on the outline provided in the *Tasks.pdf* document. The notebook follows these tasks sequentially.
+
+## **Work Summary**
+
+*	Developed ARIMA and VAR models to forecast stock prices and analyse relationships between financial assets, supporting portfolio optimisation.
+*	Conducted time-series analysis and applied logarithmic returns for financial data preprocessing, improving model accuracy and reliability.
+*	Implemented adaptive minimum-variance portfolio optimisation, recalculating risk with covariance matrices to enhance decision-making.
+*	Applied PCA and robust regression techniques (OLS and Huber) to design outlier-resistant trading strategies and improve financial predictions using Python.
